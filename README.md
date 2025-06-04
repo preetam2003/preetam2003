@@ -2,11 +2,11 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web Development
 - 💬 Ask me about Web Development
-About me:
-Hi, I'm Preetam Mondal, a passionate and aspiring web developer from India.
-I'm currently learning and exploring the world of web development, with a strong interest in building websites that are not only visually appealing but also user-friendly and functional.
+- About me:
+  Hi, I'm Preetam Mondal, a passionate and aspiring web developer from India.
+  I'm currently learning and exploring the world of web development, with a strong interest in building websites that are not only visually appealing but also user-friendly and functional.
 
-As a learner, I continually experiment with new technologies and refine my skills through hands-on projects. I enjoy understanding how websites work behind the scenes and love the process of turning ideas into real, working websites.
+  As a learner, I continually experiment with new technologies and refine my skills through hands-on projects. I enjoy understanding how websites work behind the scenes and love the process of turning ideas into    real, working websites.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/preet_1_am) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pree_t1am) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preetam mondal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pm986294@gmail.com) 
