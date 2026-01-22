@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I’m currently working on a **Online car and bike services booking system** <br><br>🌱 **Currently Learning:**<br>JavaScript (ES6+), PHP, MySQL, Git & GitHub, React<br><br>👯 **Open to Collaboration:**<br>Open-source Web Projects (Frontend / PHP-based projects)<br><br>🤝 **Looking for Help With:**<br>Backend optimisation, performance improvements, and web security best practices<br><br>👨‍💻 **Projects:**<br>Check out all my work here → [https://github.com/preetam2003](https://github.com/preetam2003)<br><br>💬 **Ask Me About:**<br>PHP, MySQL, JavaScript basics, Git & GitHub, internships, and web development projects<br><br>📫 **Contact Me:**<br>[pm986294@gmail.com](mailto:pm986294@gmail.com)<br><br>📄 **Resume:**<br>View my experience here → https://github.com/preetam2003/Resume.git</p>
+<p align="left">👋 Hi there! I’m currently working on a **Online car and bike services booking system** <br><br>🌱 **Currently Learning:**<br>JavaScript (ES6+), PHP, MySQL, Git & GitHub, React<br><br>👯 **Open to Collaboration:**<br>Open-source Web Projects (Frontend / PHP-based projects)<br><br>🤝 **Looking for Help With:**<br>Backend optimisation, performance improvements, and web security best practices<br><br>👨‍💻 **Projects:**<br>Check out all my work here → [https://github.com/preetam2003]<br><br>💬 **Ask Me About:**<br>PHP, MySQL, JavaScript basics, Git & GitHub, internships, and web development projects<br><br>📫 **Contact Me:**<br>[pm986294@gmail.com]<br><br>📄 **Resume:**<br>View my experience here → https://github.com/preetam2003/Resume.git</p>
 
 ###
 
